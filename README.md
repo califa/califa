@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 I’m Joel, I design Pull Requests.
 
 Three years ago I led Product Design at DigitalOcean.
+
 Hope that I’m not typecasting myself.
+
 Understandable if I am.
 
 #### Books 📖
