@@ -25,6 +25,7 @@ Understandable if I am.
 
 #### Books 📖
 
+
 Don’t Make Me Think
 
 Radical Candor
@@ -32,6 +33,7 @@ Radical Candor
 On Web Typography
 
 Predictably Irrational
+
 
 Inspired
 
