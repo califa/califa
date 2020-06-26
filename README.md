@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **califa/califa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Greetings 👋
+
+- I’m Joel, I design Pull Requests.
+- Three years ago I led Product Design at DigitalOcean.
+- Hope that I’m not typecasting myself.
+- Understandable if I am.
+
+#### Books 📖
+
+- Don’t Make Me Think
+- Radical Candor
+- On Web Typography
+- Predictably Irrational
+- Inspired
+- Creativity Inc
+- Emotional Design
